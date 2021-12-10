@@ -1,0 +1,775 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WumpusEngine</name>
+    </assembly>
+    <members>
+        <member name="T:WumpusEngine.CaveFiles">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:WumpusEngine.CaveFiles.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:WumpusEngine.CaveFiles.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:WumpusEngine.CaveFiles.Layout1">
+             <summary>
+               Looks up a localized string similar to 30 26 2 5 1 2
+            1 7 8 5 4 3
+            26 27 9 5 0 3
+            28 5 9 3 1 4
+            4 6 30 4 2 1
+            5 11 5 4
+            2 8 12 1 2 4
+            2 7 14 0 5 3
+            3 4 10 0 1 2
+            9 11 15 5 1 4 
+            10 17 6 4 3 1
+            17 13 7 4 2 1
+            12 18 19 5 4 3
+            19 8 21 4 0 2
+            10 16 1 2
+            15 21 22 5 4 3
+            11 12 22 5 4 3
+            23 24 13 4 3 1
+            24 13 14 4 0 1
+            25 27 4 2
+            14 16 27 5 1 3
+            16 29 28 0 2 3
+            17 18 0 1
+            18 19 25 0 1 2
+            24 20 26 5 1 2
+            25 1 3 5 4 2
+            20 21 3 5 0 3
+            22 29 4 0 1 3
+            22 28 30 5 4 2
+            29 5 1 5 4 2.
+             </summary>
+        </member>
+        <member name="P:WumpusEngine.CaveFiles.Layout2">
+             <summary>
+               Looks up a localized string similar to 30 2 7 0 2 3
+            1 8 3 5 3 1
+            2 9 4 4 3 1
+            3 5 11 5 1 2
+            4 6 4 2
+            5 12 4 2
+            1 13 8 0 3 2
+            7 2 9 5 0 1
+            3 8 10 0 4 2
+            9 15 16 5 4 3
+            4 17 12 5 3 2
+            6 11 18 0 5 3
+            7 14 19 0 2 3
+            13 20 15 5 3 1
+            14 21 10 4 3 1
+            10 22 17 0 3 1
+            16 23 11 4 3 0
+            12 23 0 4
+            13 20 25 0 2 3 
+            19 14 27 5 0 2
+            15 22 0 2
+            21 16 29 5 0 2 
+            17 18 24 0 1 2 
+            23 29 30 5 4 3
+            19 26 0 2 
+            25 26 5 2
+            20 26 28 5 4 2
+            27 29 5 1
+            22 28 24 5 4 1
+            1 24 3 0.
+             </summary>
+        </member>
+        <member name="P:WumpusEngine.CaveFiles.Layout3">
+             <summary>
+               Looks up a localized string similar to 25 6 7 0 4 3
+            7 8 9 4 3 2
+            26 9 4 5 3 2
+            3 28 10 5 0 3
+            29 6 11 0 2 3
+            5 1 7 5 1 2 
+            6 1 2 5 0 1 
+            2 13 14 0 4 3
+            2 3 15 5 0 3
+            4 15 16 0 4 3
+            5 12 17 0 2 3
+            11 17 5 4
+            18 19 8 4 3 1
+            19 8 15 4 0 1
+            14 9 10 4 0 1
+            10 23 21 0 2 4
+            11 12 18 0 1 2
+            17 13 23 5 1 4
+            24 13 14 4 0 1
+            25 21 27 4 1 2
+            20 16 27 4 1 3
+            28 29 23 3 2 1
+            16 22 18 5 4 1
+            19 25 30 1 2 3
+            24 1 20 5 3 1
+            27 3 1 2
+            26 20 21 4 5 0
+            22 4 0 3
+            22 5 30 5 3 2
+            29 24 5 0.
+             </summary>
+        </member>
+        <member name="P:WumpusEngine.CaveFiles.Layout4">
+             <summary>
+               Looks up a localized string similar to 30 6 7 5 4 3
+            7 8 9 4 3 2
+            27 4 9 0 2 3
+            3 28 11 5 0 2
+            29 30 11 0 1 3
+            1 12 1 3
+            12 1 2 4 0 1
+            2 13 0 4
+            2 3 15 5 0 3
+            11 17 16 1
+            4 10 5 5 4 0
+            6 7 0 1
+            18 19 8 4 3 1
+            19 15 21 4 1 2
+            14 9 16 4 0 2
+            15 10 17 5 0 1
+            10 16 18 5 4 2
+            17 23 13 5 4 1
+            24 13 14 4 0 1
+            25 26 21 4 3 1
+            14 20 27 5 4 3
+            27 28 23 4 3 1
+            22 18 4 1
+            29 19 4 1
+            30 20 26 4 1 2
+            25 20 5 0
+            21 22 3 0 1 3
+            22 29 4 0 1 3
+            28 5 24 4 3 1
+            5 1 25 4 2 1.
+             </summary>
+        </member>
+        <member name="P:WumpusEngine.CaveFiles.Layout5">
+             <summary>
+               Looks up a localized string similar to 6 26 2 4 1 2
+            1 26 9 5 0 2
+            26 9 4 5 3 2
+            3 9 10 5 4 3
+            29 30 6 0 1 2
+            5 1 7 5 1 2
+            6 12 8 5 4 2
+            7 14 15 5 3 2
+            2 3 4 5 0 1
+            15 4 11 4 0 1
+            10 17 12 4 3 2
+            11 18 7 5 3 1
+            12 19 14 5 3 2
+            13 8 20 5 0 3
+            8 10 21 5 1 3
+            21 22 17 4 3 1
+            16 11 18 4 0 2
+            17 12 24 5 0 3
+            13 20 25 0 2 3
+            25 19 14 4 5 0
+            15 16 27 0 1 3
+            16 23 28 0 1 3
+            22 29 24 4 3 2
+            23 18 30 5 0 3
+            30 19 20 4 0 1
+            1 2 3 4 3 2
+            21 28 0 2
+            27 22 29 5 0 1
+            23 28 5 0 4 3
+            5 24 25 4 0 1.
+             </summary>
+        </member>
+        <member name="M:WumpusEngine.Room.#ctor(System.Int32,System.Int32[],WumpusEngine.Direction[])">
+            <summary>
+            room info
+            </summary>
+            <param name="exits"></param>
+            <param name="directions"></param>
+        </member>
+        <member name="M:WumpusEngine.Room.GetRoomNum">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WumpusEngine.Room.IsThereAnExit(WumpusEngine.Direction)">
+            <summary>
+            checks current direction and returns if there is an exit
+            </summary>
+            <param name="direction"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WumpusEngine.Room.WhereExitLeads(WumpusEngine.Direction)">
+            <summary>
+            returns the room that the direction leads to
+            </summary>
+            <param name="direction"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WumpusEngine.Score.#ctor(System.String,System.String,System.Int32,System.Int32,System.Int32,System.Int32)">
+            <summary>
+            This is the constructor method for Score
+            </summary>
+            <param name="playerName"></param>
+            <param name="caveName"></param>
+            <param name="score"></param>
+            <param name="numTurns"></param>
+            <param name="numArrows"></param>
+            <param name="numGold"></param>
+        </member>
+        <member name="M:WumpusEngine.Map.#ctor(System.String,System.Int32,System.Random)">
+            <summary>
+            Selects cave and player name
+            </summary>
+            <param name="playerName"></param>
+            <param name="caveSelection"></param>
+            <param name="rand"></param>
+        </member>
+        <member name="M:WumpusEngine.Map.CaveNumber">
+            <summary>
+            Returns the cave number
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WumpusEngine.Map.PlayerName">
+            <summary>
+            returns player name
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WumpusEngine.Map.StartingRoom">
+            <summary>
+            Passes a room the player starts in 
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WumpusEngine.Map.Exit(System.Int32[])">
+            <summary>
+            Asks cave for exits in a room and returns the exits with a list
+            </summary>
+            <param name="exits"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WumpusEngine.Map.ReturnRoom(WumpusEngine.Direction)">
+            <summary>
+            Returns a room the player moved to
+            </summary>
+            <param name="d"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WumpusEngine.Map.GetPlayerInfo">
+            <summary>
+            returns player inventory
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WumpusEngine.Map.GetRoomNumber">
+            <summary>
+            Randomly places hazards in a cave
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WumpusEngine.Map.PurchaseArrows">
+            <summary>
+            calls the method that purchase arrows
+            </summary>
+        </member>
+        <member name="M:WumpusEngine.Map.RemoveCoin">
+            <summary>
+            calls the method that subtract a gold coin
+            </summary>
+        </member>
+        <member name="M:WumpusEngine.Map.ArrowShoot(WumpusEngine.Direction)">
+            <summary>
+            receives direction, compare room# of wumpus with room# the arrow shot
+            </summary>
+            <param name="d"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WumpusEngine.Map.PlaceHazards">
+            <summary>
+            Randomly places hazards in a cave
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WumpusEngine.Map.BatRoom">
+            <summary>
+            return the room numbers the bats are in
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WumpusEngine.Map.PitRoom">
+            <summary>
+            return the room numbers the pits are in
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WumpusEngine.Map.PlaceWumpus">
+            <summary>
+            Randomly places the wumpus
+            </summary>
+        </member>
+        <member name="M:WumpusEngine.Map.MoveWumpus">
+            <summary>
+            moves the wumpus
+            </summary>
+        </member>
+        <member name="M:WumpusEngine.Map.MoveWumpusAgain">
+            <summary>
+            moves the wumpus 2-4 times after the arrow is shot
+            </summary>
+        </member>
+        <member name="M:WumpusEngine.Map.WumpusRoom">
+            <summary>
+            return a room the wumpus is in
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WumpusEngine.Map.BatNewRoom">
+            <summary>
+             Bats carry the player to a random room
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WumpusEngine.Map.Pit">
+            <summary>
+            returns if there is a pit in the current room
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WumpusEngine.Map.Bats">
+            <summary>
+            returns if there is a bat in the current room
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WumpusEngine.Map.Wumpus">
+            <summary>
+            returns if there is a wumpus in the current room
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WumpusEngine.Map.Warnings">
+            <summary>
+            returns a list of warnings consisting of true or false
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WumpusEngine.Map.WumpusWithin2">
+            <summary>
+            returns true or false if there is a wumpus within 2 connecting rooms
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WumpusEngine.Map.EndScore">
+            <summary>
+            returns the end score
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WumpusEngine.Map.PitMove">
+            <summary>
+            Moves the player back to the starting room - added by Kyrie
+            </summary>
+        </member>
+        <member name="T:WumpusEngine.GameState">
+            <summary>
+            Enumerated type GameState
+            </summary>
+        </member>
+        <member name="T:WumpusEngine.GameControl">
+            <summary>
+            Connects all the things
+            </summary>
+        </member>
+        <member name="M:WumpusEngine.GameControl.#ctor">
+            <summary>
+            Constructor method; initializes the High Score object
+            </summary>
+        </member>
+        <member name="M:WumpusEngine.GameControl.GetMaintainedInstance">
+            <summary>
+            Static GameControl for UI to use
+            </summary>
+            <returns>Maintained instance of GameControl</returns>
+        </member>
+        <member name="M:WumpusEngine.GameControl.GetState">
+            <summary>
+            Returns this object's state of the game
+            </summary>
+            <returns>A copy of the game's state</returns>
+        </member>
+        <member name="M:WumpusEngine.GameControl.GetRoom(WumpusEngine.Direction)">
+            <summary>
+            Given the direction the player moved, gets a new room from Map
+            </summary>
+            <returns>The new room</returns>
+        </member>
+        <member name="M:WumpusEngine.GameControl.CheckHazards">
+            <summary>
+            Performs a check of "things" that could be in the current room:
+              - Wumpus
+              - Pit
+              - Bats
+            </summary>
+            <returns>True if state was changed at all (there is something in the room)
+            False if all checks failed (there is nothing in the room)</returns>
+        </member>
+        <member name="M:WumpusEngine.GameControl.GetWarnings">
+            <summary>
+            Returns which hazards are nearby or not
+            </summary>
+            <returns>An array of bools: wumpus, pits, bats</returns>
+        </member>
+        <member name="M:WumpusEngine.GameControl.GetPlayerStats">
+            <summary>
+            Asks map for the player's stats such as inventory and turn count
+            </summary>
+            <returns>An array of ints containing arrow count, coin count, turn count</returns>
+        </member>
+        <member name="M:WumpusEngine.GameControl.GetTrivia">
+            <summary>
+            Askes Trivia for a question and correct answer for the player when they enter
+            a new room
+            </summary>
+            <returns>A string containing the question and the answer</returns>
+        </member>
+        <member name="M:WumpusEngine.GameControl.Bats">
+            <summary>
+            If the player entered a room with bats, this method moves them
+            </summary>
+            <returns>A new random Room</returns>
+        </member>
+        <member name="M:WumpusEngine.GameControl.ShootArrow(WumpusEngine.Direction)">
+            <summary>
+            Given the direction the user shot the arrow, returns whether
+            the wumpus was hit or not
+            </summary>
+            <param name="d">Direction the arrow was shot</param>
+            <returns>True if wumpus was hit, false if wumpus not hit</returns>
+        </member>
+        <member name="M:WumpusEngine.GameControl.StartMatch">
+            <summary>
+            Starts a Trivia match and tells if it's a wumpus match or not
+            </summary>
+        </member>
+        <member name="M:WumpusEngine.GameControl.GetQuestion">
+            <summary>
+            Gets a question and answers from trivia to hand UI
+            </summary>
+            <returns>The question and multiple choice answers</returns>
+        </member>
+        <member name="M:WumpusEngine.GameControl.GetChoices">
+            <summary>
+            Gets the answer choices from Trivia
+            </summary>
+            <returns>an array of answer choices</returns>
+        </member>
+        <member name="M:WumpusEngine.GameControl.CheckAnswer(System.Int32)">
+            <summary>
+            Receives the user's answer and asks trivia if it is correct
+            </summary>
+            <param name="answer">The user's answer choice</param>
+            <returns>Whether the answer was correct or not</returns>
+        </member>
+        <member name="M:WumpusEngine.GameControl.MatchState">
+            <summary>
+            Askes Trivia if the trivia match is still happening
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WumpusEngine.GameControl.MatchWin">
+            <summary>
+            When the match is over, askes trivia if the player won or lost
+            </summary>
+            <returns>True if player won, false if player lost</returns>
+        </member>
+        <member name="M:WumpusEngine.GameControl.GetHighScores">
+            <summary>
+            Askes HighScore for the list of high scores to display on the start menu
+            </summary>
+            <returns>A list of high scores with player's name, score, number
+            of turns, gold coins left, arrows left, and cave played</returns>
+        </member>
+        <member name="M:WumpusEngine.GameControl.GameStart(System.String,System.Int32)">
+            <summary>
+            At the start of the game, receive the player's choices and update the appropriate fields
+            </summary>
+            <param name="playerName">The player's input for their name</param>
+            <param name="caveSelection">The cave number the player wishes to use</param>
+        </member>
+        <member name="M:WumpusEngine.GameControl.StartingRoom">
+            <summary>
+            Returns the starting room of the game
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WumpusEngine.GameControl.GameOver">
+            <summary>
+            Updates the high score list and passes the player's score info to UI
+            </summary>
+            <returns>Player's score break down</returns>
+        </member>
+        <member name="M:WumpusEngine.GameControl.PurchaseSecret">
+            <summary>
+            Handles the purchasing of secrets
+            </summary>
+        </member>
+        <member name="M:WumpusEngine.GameControl.PurchaseArrow">
+            <summary>
+            Ups the arrow count
+            </summary>
+        </member>
+        <member name="M:WumpusEngine.GameControl.StartPurchaseArrow">
+            <summary>
+            Changes the game state to purchase
+            </summary>
+        </member>
+        <member name="M:WumpusEngine.GameControl.StartPurchaseSecret">
+            <summary>
+            Changes the game state to purchase
+            </summary>
+        </member>
+        <member name="M:WumpusEngine.GameControl.CheatInfo">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WumpusEngine.GameControl.Teleport(System.String)">
+            <summary>
+            Moves the player to a room with the wumpus, a bat, or a pit to show
+            functionality
+            </summary>
+            <param name="roomType">Wumpus, bat, or pit</param>
+            <returns></returns>
+        </member>
+        <member name="M:WumpusEngine.GameControl.TriviaAnswer">
+            <summary>
+            Returns the number of the correct answer
+            </summary>
+            <returns>Answer number</returns>
+        </member>
+        <member name="M:WumpusEngine.Cave.#ctor(System.Int32)">
+            <summary>
+            Constructor
+            </summary>
+        </member>
+        <member name="M:WumpusEngine.Cave.ReadFile(System.String)">
+            <summary>
+            Reads the file
+            </summary>
+            <param name="fileName"></param>
+        </member>
+        <member name="M:WumpusEngine.Cave.GetRoom(System.Int32)">
+            <summary>
+            Tell how the rooms of the layout connect
+            </summary>
+        </member>
+        <member name="T:WumpusEngine.Direction">
+            <summary>
+            Direction assigned to a number
+            </summary>
+        </member>
+        <member name="M:WumpusEngine.High_Score.AddNewScore(System.String,System.String,System.Int32,System.Int32,System.Int32,System.Int32)">
+            <summary>
+            This method will get the new score from the last completed game
+            </summary>
+            <param name="turns">The number of turns it took to finish game</param>
+            <param name="gold">The number of gold the player has at the end</param>
+            <param name="playerName">The name the player entered</param>
+            <param name="score">The final score of the game session</param>
+            <param name="arrow">Number of arrows at the end of session</param>
+            <param name="caveName">Name of the cave that game session is in</param>
+        </member>
+        <member name="M:WumpusEngine.High_Score.ReturnHighScores">
+            <summary>
+            This method will return an array back to game control for shenanagins 
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WumpusEngine.Player.#ctor(System.String)">
+            <summary>
+            give the player a name and its starting inventories
+            </summary>
+            <param name="playerName"></param>
+        </member>
+        <member name="M:WumpusEngine.Player.PlayerName">
+            <summary>
+            returns player name
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WumpusEngine.Player.UpdateInventory">
+            <summary>
+            adds a turn and a gold coin every time player moves
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WumpusEngine.Player.PurchaseArrows">
+            <summary>
+            adds two arrows to the player inventory
+            </summary>
+        </member>
+        <member name="M:WumpusEngine.Player.ShootArrows">
+            <summary>
+            subtracts an arrow from player inventory
+            </summary>
+        </member>
+        <member name="M:WumpusEngine.Player.PlayerInventory">
+            <summary>
+            Returns player inventory
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WumpusEngine.Player.EndScore(System.Int32[])">
+            <summary>
+            Calculates and returns the end score
+            </summary>
+            <param name="inventory"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WumpusEngine.Question.#ctor(System.IO.StreamReader,System.Random)">
+            <summary>
+            Contructor for the question.
+            Takes a reader with the questions.txt file attached and an random
+            </summary>
+            <param name="reader"></param>
+            <param name="rand"></param>
+        </member>
+        <member name="M:WumpusEngine.Question.LoadNewQuestion">
+            <summary>
+            Loads a new question, reinitializing all fields (question, choices, answer, etc.) for the new question.
+            </summary>
+        </member>
+        <member name="M:WumpusEngine.Question.GetQuestion">
+            <summary>
+            Gets the question and returns it as a string.
+            </summary>
+            <returns> question </returns>
+        </member>
+        <member name="M:WumpusEngine.Question.GetChoices">
+            <summary>
+            Returns and array of strings of the answer choices.
+            </summary>
+            <returns> array of string </returns>
+        </member>
+        <member name="M:WumpusEngine.Question.GetAnswer">
+            <summary>
+            Gets the int corresponding to the correct answer.
+            </summary>
+            <returns> number of the correct answer (a, b, c, etc.) --> (0, 1, 2, etc.) </returns>
+        </member>
+        <member name="M:WumpusEngine.Question.AddFailedQuestion">
+            <summary>
+            Adds the current question and answer to a list of
+            questions that were answered incorrectly
+            (Only called if the answer was incorrect)
+            </summary>
+        </member>
+        <member name="M:WumpusEngine.Question.FailedQuestion">
+            <summary>
+            Lets Game control make sure there is at least one failed question
+            so that they can factor that into the selection of the secret.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WumpusEngine.Question.GetFailedQuestion">
+            <summary>
+            Returns a random question + answer from the list of
+            failed questions
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WumpusEngine.Question.GetHint">
+            <summary>
+            Gives a hint for a random trivia question
+            for when the player enters a new room.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WumpusEngine.Trivia.#ctor(System.Random)">
+            <summary>
+            Constructor for Trivia.
+            Takes a random
+            </summary>
+            <param name="rand"></param>
+        </member>
+        <member name="M:WumpusEngine.Trivia.NewQuestion">
+            <summary>
+            Sets up the new question for trivia match
+            </summary>
+        </member>
+        <member name="M:WumpusEngine.Trivia.MatchWon">
+            <summary>
+            If the match is over, then return that yes, the match was won (true)
+            or no, the match was lost (false).
+            </summary>
+        </member>
+        <member name="M:WumpusEngine.Trivia.Wumpus(System.Boolean)">
+            <summary>
+            Sets the goal and number of chances depending on what
+            the condition of the trivia match is.
+            Also marks the start of the match.
+            </summary>
+            <param name="wumpus"> whether or not this is a wumpus battle
+            true - wumpus battle; false - other conflict </param>
+        </member>
+        <member name="M:WumpusEngine.Trivia.MatchInProgress">
+            <summary>
+            Returns whether the game is finished or in progress.
+            </summary>
+            <returns> The game state - true if in progress, false if not </returns>
+        </member>
+        <member name="M:WumpusEngine.Trivia.GetQuestion">
+            <summary>
+            Gets a question from list of unasked question
+            and gives a question (that hasn't been asked yet).
+            </summary>
+            <returns> question </returns>
+        </member>
+        <member name="M:WumpusEngine.Trivia.GetChoices">
+            <summary>
+            Returns the choices of answers as a string
+            </summary>
+            <returns> string </returns>
+        </member>
+        <member name="M:WumpusEngine.Trivia.GetCorrectAnswer">
+            <summary>
+            Cheat method - give the index of the correct asnwer
+            </summary>
+            <returns> index of the correct answer </returns>
+        </member>
+        <member name="M:WumpusEngine.Trivia.GetHint">
+            <summary>
+            Returns the hint for a question for when the player enters a new room.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WumpusEngine.Trivia.GetFailedQuestion">
+            <summary>
+            Gives the question and the answer to a question that the player got wrong
+            </summary>
+            <returns> Format of: "Question? Answer" </returns>
+        </member>
+        <member name="M:WumpusEngine.Trivia.CheckAnswer(System.Int32)">
+            <summary>
+            Trivia will return whether the answer was correct or not 
+            by comparing the player's answer to the correct answer.
+            </summary>
+            <param name="playerAnswer"> Which answer the player chose </param>
+            <returns> true - player was correct; false - player was incorrect </returns>
+        </member>
+    </members>
+</doc>

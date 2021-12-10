@@ -1,0 +1,16 @@
+C:\Users\seanle\Documents\Visual Studio 2015\Projects\Wumpus_5B\WumpusEngine\bin\Debug\WumpusEngine.XML
+C:\Users\seanle\Documents\Visual Studio 2015\Projects\Wumpus_5B\WumpusEngine\bin\Debug\WumpusEngine.dll
+C:\Users\seanle\Documents\Visual Studio 2015\Projects\Wumpus_5B\WumpusEngine\bin\Debug\WumpusEngine.pdb
+C:\Users\seanle\Documents\Visual Studio 2015\Projects\Wumpus_5B\WumpusEngine\obj\Debug\WumpusEngine.csprojResolveAssemblyReference.cache
+C:\Users\seanle\Documents\Visual Studio 2015\Projects\Wumpus_5B\WumpusEngine\obj\Debug\WumpusEngine.dll
+C:\Users\seanle\Documents\Visual Studio 2015\Projects\Wumpus_5B\WumpusEngine\obj\Debug\WumpusEngine.pdb
+C:\Users\seanle\Documents\Visual Studio 2015\Projects\Wumpus_5B\WumpusEngine\bin\Debug\Cave\Layout-4-rooms.txt
+C:\Users\seanle\Documents\Visual Studio 2015\Projects\Wumpus_5B\WumpusEngine\bin\Debug\Cave\Layout2.txt
+C:\Users\seanle\Documents\Visual Studio 2015\Projects\Wumpus_5B\WumpusEngine\bin\Debug\Cave\Layout1.txt
+C:\Users\seanle\Documents\Visual Studio 2015\Projects\Wumpus_5B\WumpusEngine\bin\Debug\High Score\ScoreFile.txt
+C:\Users\seanle\Documents\Visual Studio 2015\Projects\Wumpus_5B\WumpusEngine\bin\Debug\Cave\Layout3.txt
+C:\Users\seanle\Documents\Visual Studio 2015\Projects\Wumpus_5B\WumpusEngine\bin\Debug\Cave\Layout4.txt
+C:\Users\seanle\Documents\Visual Studio 2015\Projects\Wumpus_5B\WumpusEngine\bin\Debug\Cave\Layout5.txt
+C:\Users\seanle\Documents\Visual Studio 2015\Projects\Wumpus_5B\WumpusEngine\bin\Debug\Trivia\questions.txt
+C:\Users\seanle\Documents\Visual Studio 2015\Projects\Wumpus_5B\WumpusEngine\obj\Debug\WumpusEngine.Cave.CaveFiles.resources
+C:\Users\seanle\Documents\Visual Studio 2015\Projects\Wumpus_5B\WumpusEngine\obj\Debug\WumpusEngine.csproj.GenerateResource.Cache
